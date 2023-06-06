@@ -1,8 +1,9 @@
 # UAS-PBO-KELOMPOK-3
+*****************************************
 1. Keysa Maqfirah (G1A022012)
 2. Carli Margareta (G1A022074)
 3. Ferdi Fitriansyah Rowi (G1A022082)
-
+****************************************
 Membuat password menggunakan python
 
 <img width="245" alt="output" src="https://github.com/KeysaMaqfirah/UAS---PBO--KELOMPOK---3/assets/129745155/f895e502-5253-4692-a144-e5096e1e9489">
